@@ -53,7 +53,7 @@ To create this project participants needed to implement skills in:
 
 ## Demo
 
-![Demo image](/img-final-product.jpg)
+![Demo image](img-final-product.jpg)
 
 ### Disclaimer
 
