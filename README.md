@@ -51,11 +51,6 @@ To create this project participants needed to implement skills in:
 7. add a border around the animal's information
 8. add spaing between the animal's name, image, and ifnormaiton (you will need ot use the property padding)
 
-## Demo
-
-![GitHub demo](/img-final-product.jpg)
-Format: ![Alt Text](url)
-
 ### Disclaimer
 
 This repository is not for general use, but rather an exercise as part of an education program.
