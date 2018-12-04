@@ -53,7 +53,8 @@ To create this project participants needed to implement skills in:
 
 ## Demo
 
-![Demo image](img-final-product.jpg)
+![GitHub demo](/img-final-product.jpg)
+Format: ![Alt Text](url)
 
 ### Disclaimer
 
