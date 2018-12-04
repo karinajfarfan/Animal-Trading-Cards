@@ -19,14 +19,18 @@ To create this project participants needed to implement skills in:
 - HTML is used to structure your site
 - CSS is used for styling
 
-You will be provided with the following files:
-card.html
-styles.css
-placeholder.png
-design-prototype.jpg
+## Participants were provided with the following files:
 
-Required changs
-Make the following changes to card.html
+```bash
+├── card.html
+├── styles.css
+├── placeholder.png
+├── design-prototype.jpg
+```
+
+## Instructions for required changes
+
+### Make the following changes to card.html:
 
 1. change the heading to the name of your favorite animal
 2. replace the placeholder image with your favorite animal's image.
@@ -36,11 +40,7 @@ Make the following changes to card.html
 4. edit the key characteristics
 5. edit the informational paragraph
 
-Style the page
-Try to recreate the design-prototype.jpg.
-You'll need to modify card.html to include attribute and use selectors to specify the elements you want to style.
-
-The CSS must apply these styles to match the design prototype.
+### The CSS must apply these styles to match the design prototype:
 
 1. link your stylesheet styles.css to the HTML or else your CSS will not be applied
 2. give the intersting facts <div> a CSS class of animal-info
@@ -50,6 +50,10 @@ The CSS must apply these styles to match the design prototype.
 6. add a border around the animal's name, image, and information
 7. add a border around the animal's information
 8. add spaing between the animal's name, image, and ifnormaiton (you will need ot use the property padding)
+
+## Demo
+
+![Demo image](/img-final-product.jpg)
 
 ### Disclaimer
 
